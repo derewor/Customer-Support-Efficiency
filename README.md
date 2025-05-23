@@ -23,5 +23,7 @@ Pandas, Numpy, SQL, Jupyter Notebook, Spreadsheet
 
 ## Author
 Dereje W. Mekonnen
+
 derewor@gmail.com
+
 https://www.linkedin.com/in/dereje-worku-mekonnen-a8345217/
