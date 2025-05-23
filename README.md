@@ -6,5 +6,7 @@ This project aimed to investigate the efficiency of the customer support departm
 
 ## Structure
 Data:\ This folder in the repository contains the analyzed datasets used for visualization.
+
 src:\ This folder contains the jupyter notbook with an active code.
+
 Result:\ This folder contains the overall report of the analysis.
